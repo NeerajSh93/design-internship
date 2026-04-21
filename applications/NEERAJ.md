@@ -1,13 +1,10 @@
-# Application: [Your Name]
-
-> **Instructions:** Copy this file to `applications/your-name.md` (use kebab-case — e.g. `priya-sharma.md`).
-> Fill in each of the 5 sections below. Delete these instructions before you open your PR.
+# Application: neeraj
 
 ---
 
 ## 1. Name
 
-_Your full name._
+Neeraj Sharma.
 
 ## 2. Portfolio
 
@@ -15,16 +12,16 @@ _Link to your portfolio, site, Dribbble, Behance, Notion — anywhere we can see
 
 ## 3. LinkedIn
 
-_Link to your LinkedIn profile._
+(https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BcQ5lDgoiRvObjsaq2GcB5Q%3D%3D)
 
 ## 4. A project you've shipped recently
 
-_Link to something you've shipped in the last 6–12 months. Add 2–4 sentences: what it is, what you did on it, and what you'd change now._
+(https://www.notion.so/Medos-Healthcare-2f6dbc9d3c6180f8838af880c6dcabb4?source=copy_link),
+Designed a patient overview dashboard and doctor scheduling system at Medos, helping clinicians access critical data faster and manage consultation slots easily, reducing navigation time and improving efficiency.
+Currently interning at Tata 1mg as a Product Designer, where I support design quality checks and collaborate with developers to ensure smooth design-to-development handoff.
 
 ## 5. Why you want to join Amber
 
-_3–5 sentences. Please don't write "I'm passionate about design." Tell us what specifically pulls you to Amber — the product, the students we serve, the team, the problem space. Be honest._
+To be completely transparent, I am actively looking for a role to secure financial stability as I start my career. However, I didn't just apply anywhere. I specifically want to work here because of the real-world impact of your products. As a fresher, I want to earn my living in a place where I can learn from the team, ask the 'Why' behind design decisions, and contribute to a strong user experience. 
 
 ---
-
-_By opening this PR you confirm the work above is yours and that you've read [the role](https://github.com/sudo-anmol/design-internship)._
